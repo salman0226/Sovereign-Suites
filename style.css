@@ -1182,10 +1182,10 @@ body{
 }
 @media(max-width:450px){
     .footerImg{
-        height: 30vh;
+        height: 25vh;
     }
     .imgDescription{
-        height: 30vh;
+        height: 25vh;
     }
 }
 @media(max-width:400px){
